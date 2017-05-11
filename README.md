@@ -1,5 +1,6 @@
 erb-bootstrap-example
 =====================
+An example of [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) using sass and bootstrap.
 
 [![Build Status](https://travis-ci.org/amilajack/erb-bootstrap-example.svg?branch=master&maxAge=2592)](https://travis-ci.org/amilajack/erb-bootstrap-example)
 
