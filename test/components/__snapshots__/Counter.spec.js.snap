@@ -2,7 +2,9 @@
 
 exports[`Counter component should match exact snapshot 1`] = `
 <div>
-  <div>
+  <div
+    className="col-xs-12"
+  >
     <div
       className="backButton"
       data-tid="backButton"
