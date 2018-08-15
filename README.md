@@ -2,7 +2,7 @@ erb-bootstrap-example
 =====================
 An example of [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate) using sass and bootstrap.
 
-[![Build Status](https://travis-ci.org/amilajack/erb-bootstrap-example.svg?branch=master&maxAge=2592)](https://travis-ci.org/amilajack/erb-bootstrap-example)
+[![Build Status](https://travis-ci.org/amilajack/erb-bootstrap-example.svg?branch=master&maxAge=2592)](https://travis-ci.org/amilajack/erb-bootstrap-example) [![Greenkeeper badge](https://badges.greenkeeper.io/amilajack/erb-bootstrap-example.svg)](https://greenkeeper.io/)
 
 ## Setup
 ⚠️ These instructions assume that you have yarn. If you don't, make sure to install it: `npm i -g yarn`
