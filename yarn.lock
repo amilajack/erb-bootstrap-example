@@ -2733,9 +2733,9 @@ electron-debug@^1.1.0:
     electron-is-dev "^0.1.0"
     electron-localshortcut "^0.6.0"
 
-electron-devtools-installer@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/electron-devtools-installer/-/electron-devtools-installer-2.2.0.tgz#9813e6811afcd69ddca3cae5416db72ea7ecfb6a"
+electron-devtools-installer@^2.2.4:
+  version "2.2.4"
+  resolved "https://registry.yarnpkg.com/electron-devtools-installer/-/electron-devtools-installer-2.2.4.tgz#261a50337e37121d338b966f07922eb4939a8763"
   dependencies:
     "7zip" "0.0.6"
     cross-unzip "0.0.2"
@@ -3126,7 +3126,7 @@ eslint-plugin-jest@^20.0.1:
   version "20.0.1"
   resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-20.0.1.tgz#ddb8a7d30da81e8839e2b4e25907d2ac45d27aa4"
 
-eslint-plugin-jsx-a11y@^4.0.1:
+eslint-plugin-jsx-a11y@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/eslint-plugin-jsx-a11y/-/eslint-plugin-jsx-a11y-4.0.0.tgz#779bb0fe7b08da564a422624911de10061e048ee"
   dependencies:
