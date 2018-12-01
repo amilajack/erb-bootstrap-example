@@ -142,7 +142,7 @@
     "electron-builder": "^17.5.0",
     "electron-devtools-installer": "^2.2.0",
     "enzyme": "^2.8.2",
-    "enzyme-to-json": "^1.5.1",
+    "enzyme-to-json": "^1.6.0",
     "eslint": "^3.19.0",
     "eslint-config-airbnb": "^14.1.0",
     "eslint-formatter-pretty": "^1.1.0",
