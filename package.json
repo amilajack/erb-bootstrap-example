@@ -146,7 +146,7 @@
     "eslint": "^3.19.0",
     "eslint-config-airbnb": "^14.1.0",
     "eslint-formatter-pretty": "^1.1.0",
-    "eslint-import-resolver-webpack": "^0.8.1",
+    "eslint-import-resolver-webpack": "^0.8.4",
     "eslint-plugin-compat": "^1.0.2",
     "eslint-plugin-flowtype": "^2.32.1",
     "eslint-plugin-flowtype-errors": "^3.2.0",
