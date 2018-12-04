@@ -113,7 +113,7 @@
     }
   },
   "devDependencies": {
-    "asar": "^0.13.0",
+    "asar": "^0.13.1",
     "babel-core": "^6.24.1",
     "babel-eslint": "^7.2.3",
     "babel-jest": "^20.0.1",
