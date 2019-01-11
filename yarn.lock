@@ -269,9 +269,9 @@ asap@~2.0.3:
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/asap/-/asap-2.0.5.tgz#522765b50c3510490e52d7dcfe085ef9ba96958f"
 
-asar@^0.13.0:
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/asar/-/asar-0.13.0.tgz#df33dd9d01bff842464d0d9f095740d4a62afb14"
+asar@^0.13.1:
+  version "0.13.1"
+  resolved "https://registry.yarnpkg.com/asar/-/asar-0.13.1.tgz#dfc73f574a7db256b09ba62d1f0e95cd4a6cb8d3"
   dependencies:
     chromium-pickle-js "^0.2.0"
     commander "^2.9.0"
@@ -3126,7 +3126,7 @@ eslint-plugin-jest@^20.0.1:
   version "20.0.1"
   resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-20.0.1.tgz#ddb8a7d30da81e8839e2b4e25907d2ac45d27aa4"
 
-eslint-plugin-jsx-a11y@^4.0.1:
+eslint-plugin-jsx-a11y@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/eslint-plugin-jsx-a11y/-/eslint-plugin-jsx-a11y-4.0.0.tgz#779bb0fe7b08da564a422624911de10061e048ee"
   dependencies:
