@@ -182,7 +182,7 @@
     "url-loader": "^0.5.8",
     "webpack": "^2.5.1",
     "webpack-bundle-analyzer": "^2.7.0",
-    "webpack-dev-server": "^2.4.5",
+    "webpack-dev-server": "^3.0.0",
     "webpack-merge": "^4.1.0"
   },
   "dependencies": {
