@@ -187,7 +187,7 @@
   },
   "dependencies": {
     "bootstrap": "4.0.0-alpha.6",
-    "electron-debug": "^1.1.0",
+    "electron-debug": "^1.5.0",
     "font-awesome": "^4.7.0",
     "history": "^4.6.1",
     "react": "^15.5.4",
